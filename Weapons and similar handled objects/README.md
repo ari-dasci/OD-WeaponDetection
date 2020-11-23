@@ -6,15 +6,15 @@ The txt file gives information about the experiment dataset partitions used in t
 
 ## Classification datasets
 
-![ImgClas](https://github.com/ari-dasci/OD-WeaponDetection/pictures/images_classification.jpg)
+![ImgClas](https://github.com/ari-dasci/OD-WeaponDetection/blob/master/pictures/Images%20Classification.jpg)
 
-![DatClas](Dataset Classification.jpg)
+![DatClas](https://github.com/ari-dasci/OD-WeaponDetection/blob/master/pictures/Dataset%20Classification.jpg)
 
 ## Detection dataset
 
-![ImgDet](Images Detection.jpg)
+![ImgDet](https://github.com/ari-dasci/OD-WeaponDetection/blob/master/pictures/Images%20Detection.jpg)
 
-![DatDet](Dataset Detection.jpg)
+![DatDet](https://github.com/ari-dasci/OD-WeaponDetection/blob/master/pictures/Dataset%20Detection.jpg)
 
 This dataset is designed in the related publication giving additional information about the image dataset and experiment results.
 
