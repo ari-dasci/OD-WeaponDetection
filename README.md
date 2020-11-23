@@ -7,3 +7,5 @@ The weapon detection task can be performed by different approaches of combining 
 Weapon detection Open Data provides quality image datasets built for training Deep Learning models under the development of an automatic weapon detection system. Weapons datasets for image classification and object detection tasks are described and can be downloaded below. The public datasets are organized depending on the included objects in the dataset images and the target task.
 
 You can read more information about these dataset in [Weapon detection Open Data](https://dasci.es/transferencia/open-data/24705/), and related works in [Weapon detection for security and video surveillance project](https://sci2s.ugr.es/weapons-detection).
+
+[Weapons and similar handled objects](../master/Weapons%20and%20similar%20handled%20objects)
