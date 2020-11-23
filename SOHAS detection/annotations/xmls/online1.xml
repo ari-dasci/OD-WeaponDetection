@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train-P2</folder>
+	<filename>online1.jpg</filename>
+	<path>C:\Users\Alcasla\Downloads\KnifesDataset-Part2\Train-P2\online1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>148</ymin>
+			<xmax>477</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>

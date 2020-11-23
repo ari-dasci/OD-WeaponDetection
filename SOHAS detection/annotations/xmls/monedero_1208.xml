@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TrainDetector4</folder>
+	<filename>monedero_1208.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\9 Paper Fusion OVA y OVO\BD estructurada\Train\TrainDetector4\monedero_1208.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1620</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monedero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>612</xmin>
+			<ymin>507</ymin>
+			<xmax>788</xmax>
+			<ymax>683</ymax>
+		</bndbox>
+	</object>
+</annotation>

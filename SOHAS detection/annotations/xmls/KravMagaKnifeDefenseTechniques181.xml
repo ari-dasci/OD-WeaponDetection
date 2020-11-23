@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train-P2</folder>
+	<filename>KravMagaKnifeDefenseTechniques181.jpg</filename>
+	<path>C:\Users\Alcasla\Downloads\KnifesDataset-Part2\Train-P2\KravMagaKnifeDefenseTechniques181.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>153</ymin>
+			<xmax>504</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Monederos</folder>
+	<filename>monedero_1346.jpg</filename>
+	<path>\\Mac\Dropbox\Monederos\monedero_1346.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monedero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>101</ymin>
+			<xmax>724</xmax>
+			<ymax>682</ymax>
+		</bndbox>
+	</object>
+</annotation>

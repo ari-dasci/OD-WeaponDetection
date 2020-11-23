@@ -1,0 +1,26 @@
+<annotation>
+	<folder>RENAMED</folder>
+	<filename>knife_309.jpg</filename>
+	<path>C:\Users\Alcasla\Universidad\Máster Ciencia de Datos\TFM\Armas\Stage5 SSD\Datasets\RENAMED\knife_309.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>831</xmin>
+			<ymin>304</ymin>
+			<xmax>1889</xmax>
+			<ymax>1018</ymax>
+		</bndbox>
+	</object>
+</annotation>

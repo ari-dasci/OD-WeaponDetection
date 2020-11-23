@@ -1,0 +1,26 @@
+<annotation>
+	<folder>monederohombre</folder>
+	<filename>monedero_1042.jpg</filename>
+	<path>C:\Nueva Base de datos\monederohombre\monedero_1042.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>935</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monedero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>533</ymin>
+			<xmax>714</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+</annotation>

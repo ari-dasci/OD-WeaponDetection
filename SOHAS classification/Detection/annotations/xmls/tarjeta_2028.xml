@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tarjetas</folder>
+	<filename>tarjeta_2028.jpg</filename>
+	<path>C:\Nueva Base de datos\tarjetas\tarjeta_2028.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>308</width>
+		<height>166</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarjeta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>27</ymin>
+			<xmax>151</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

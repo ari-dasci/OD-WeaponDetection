@@ -1,0 +1,38 @@
+<annotation>
+	<folder>billete</folder>
+	<filename>billete_0190.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\9 Paper Fusion OVA y OVO\BD estructurada\Train\TrainDetector5\billete\billete_0190.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>billete</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>921</xmin>
+			<ymin>451</ymin>
+			<xmax>1048</xmax>
+			<ymax>660</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>billete</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>971</xmin>
+			<ymin>447</ymin>
+			<xmax>1094</xmax>
+			<ymax>661</ymax>
+		</bndbox>
+	</object>
+</annotation>

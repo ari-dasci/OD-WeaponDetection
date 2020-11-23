@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ScenesRenamed</folder>
+	<filename>knife_76.jpg</filename>
+	<path>C:\Users\Alcasla\Universidad\Máster Ciencia de Datos\TFM\Armas\Stage5 SSD\Knifes Dataset\ScenesRenamed\knife_76.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>492</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>13</ymin>
+			<xmax>303</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

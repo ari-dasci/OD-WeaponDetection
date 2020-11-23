@@ -1,0 +1,38 @@
+<annotation>
+	<folder>GrandesTrainDetector1</folder>
+	<filename>smartphone_0149.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\9 Paper Fusion OVA y OVO\BaseDatos\Train\GrandesTrainDetector1\smartphone_0149.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smartphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>44</ymin>
+			<xmax>928</xmax>
+			<ymax>1034</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smartphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1025</xmin>
+			<ymin>47</ymin>
+			<xmax>1546</xmax>
+			<ymax>1013</ymax>
+		</bndbox>
+	</object>
+</annotation>

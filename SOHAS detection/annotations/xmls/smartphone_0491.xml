@@ -1,0 +1,38 @@
+<annotation verified="no">
+	<folder>Nueva carpeta (3)</folder>
+	<filename>smartphone_0491.jpg</filename>
+	<path>/home/fperez/Dropbox/zTrabajo/6 Refuerzo/3 Meter moviles en la BD/BuenaCalidad/Nueva carpeta (3)/smartphone_0491.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1030</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smartphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>23</ymin>
+			<xmax>982</xmax>
+			<ymax>899</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smartphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>272</ymin>
+			<xmax>709</xmax>
+			<ymax>899</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tar y mon</folder>
+	<filename>img2517.jpg</filename>
+	<path>/home/fperez/Descargas/IMAGES/dsc_0002/tar y mon/img2517.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarjeta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1110</xmin>
+			<ymin>245</ymin>
+			<xmax>1208</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>monedero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1097</xmin>
+			<ymin>619</ymin>
+			<xmax>1316</xmax>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+</annotation>

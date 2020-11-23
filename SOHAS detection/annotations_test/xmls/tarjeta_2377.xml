@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tarjetas</folder>
+	<filename>tarjeta_2377.jpg</filename>
+	<path>\\Mac\Dropbox\Tarjetas\tarjeta_2377.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarjeta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>506</xmin>
+			<ymin>455</ymin>
+			<xmax>679</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

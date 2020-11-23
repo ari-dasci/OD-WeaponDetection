@@ -1,0 +1,38 @@
+<annotation>
+	<folder>bil y mon</folder>
+	<filename>img2233.jpg</filename>
+	<path>/home/fperez/Descargas/IMAGES/dsc_0002/bil y mon/img2233.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monedero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1070</xmin>
+			<ymin>624</ymin>
+			<xmax>1203</xmax>
+			<ymax>756</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>billete</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1065</xmin>
+			<ymin>250</ymin>
+			<xmax>1174</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

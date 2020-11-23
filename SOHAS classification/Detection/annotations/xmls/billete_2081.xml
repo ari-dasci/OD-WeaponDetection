@@ -1,0 +1,26 @@
+<annotation>
+	<folder>billetes</folder>
+	<filename>billete_2081.jpg</filename>
+	<path>\\Mac\Dropbox\billetes\billete_2081.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>billete</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>316</ymin>
+			<xmax>574</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>

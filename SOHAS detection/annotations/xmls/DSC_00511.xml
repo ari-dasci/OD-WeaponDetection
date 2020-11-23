@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Reflex</folder>
+	<filename>DSC_00511.jpg</filename>
+	<path>/media/alcasla/7E78AEA50B546E1F/KnifesDataset/KnifesDataset-Part2/Reflex/DSC_00511.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>590</xmin>
+			<ymin>496</ymin>
+			<xmax>662</xmax>
+			<ymax>730</ymax>
+		</bndbox>
+	</object>
+</annotation>

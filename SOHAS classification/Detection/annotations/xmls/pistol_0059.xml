@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Definitiva</folder>
+  <filename>pistol_0059.jpg</filename>
+  <path>C:\Users\Rob\Desktop\Definitiva\pistol_0059.jpg.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>256</width>
+    <height>192</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>pistol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>26</xmin>
+      <ymin>22</ymin>
+      <xmax>241</xmax>
+      <ymax>171</ymax>
+    </bndbox>
+  </object>
+</annotation>

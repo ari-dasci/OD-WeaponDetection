@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tarjeta</folder>
+	<filename>tarjeta_2511.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\10 Ensemble\NuevasImg\Camara1\Tarjeta\tarjeta_2511.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarjeta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>630</xmin>
+			<ymin>434</ymin>
+			<xmax>1187</xmax>
+			<ymax>976</ymax>
+		</bndbox>
+	</object>
+</annotation>

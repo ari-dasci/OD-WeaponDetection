@@ -1,0 +1,26 @@
+<annotation>
+	<folder>massmartphone</folder>
+	<filename>smartphone_9010.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\9 Paper Fusion OVA y OVO\Nueva Base de datos\massmartphone\smartphone_9010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1090</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smartphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>114</ymin>
+			<xmax>1057</xmax>
+			<ymax>948</ymax>
+		</bndbox>
+	</object>
+</annotation>

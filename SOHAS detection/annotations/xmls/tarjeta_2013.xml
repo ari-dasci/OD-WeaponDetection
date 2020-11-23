@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tarjetas</folder>
+	<filename>tarjeta_2013.jpg</filename>
+	<path>C:\Nueva Base de datos\tarjetas\tarjeta_2013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarjeta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>26</ymin>
+			<xmax>472</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tarjeta</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>73</ymin>
+			<xmax>344</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

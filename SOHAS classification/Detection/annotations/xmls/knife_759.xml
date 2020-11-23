@@ -1,0 +1,26 @@
+<annotation>
+	<folder>newImages</folder>
+	<filename>knife_759.jpg</filename>
+	<path>C:\Users\Alcasla\Universidad\Máster Ciencia de Datos\TFM\Armas\Stage5 SSD\Datasets\newImages\knife_759.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>687</xmin>
+			<ymin>164</ymin>
+			<xmax>939</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>monedero</folder>
+	<filename>img2456.jpg</filename>
+	<path>/home/fperez/Descargas/IMAGES/dsc_0002/monedero/img2456.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monedero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1061</xmin>
+			<ymin>552</ymin>
+			<xmax>1283</xmax>
+			<ymax>677</ymax>
+		</bndbox>
+	</object>
+</annotation>

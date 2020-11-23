@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Scenes New Renamed</folder>
+	<filename>knife_582.jpg</filename>
+	<path>C:\Users\Alcasla\Universidad\Máster Ciencia de Datos\TFM\Armas\Stage5 SSD\Datasets\Scenes New Renamed\knife_582.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>816</xmin>
+			<ymin>441</ymin>
+			<xmax>2140</xmax>
+			<ymax>1665</ymax>
+		</bndbox>
+	</object>
+</annotation>

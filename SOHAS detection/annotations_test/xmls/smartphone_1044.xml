@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smartphone</folder>
+	<filename>smartphone_1044.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\10 Ensemble\NuevasImg\Camara1\smartphone\smartphone_1044.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smartphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>741</xmin>
+			<ymin>110</ymin>
+			<xmax>1224</xmax>
+			<ymax>1045</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>billete</folder>
+	<filename>img5915.jpg</filename>
+	<path>/home/fperez/Descargas/IMAGES/18-09-2018/billete/img5915.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>billete</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>722</xmin>
+			<ymin>1</ymin>
+			<xmax>880</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>

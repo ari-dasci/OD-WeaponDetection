@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>MBsframe00199.jpg</filename>
+	<path>/media/alcasla/7E78AEA50B546E1F/KnifesExpansion/Validation/images/MBsframe00199.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1090</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>860</xmin>
+			<ymin>510</ymin>
+			<xmax>941</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

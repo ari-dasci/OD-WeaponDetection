@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GrandesTrainDetector1</folder>
+	<filename>pistol_0578.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\9 Paper Fusion OVA y OVO\BaseDatos\Train\GrandesTrainDetector1\pistol_0578.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>992</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1134</xmin>
+			<ymin>200</ymin>
+			<xmax>1854</xmax>
+			<ymax>798</ymax>
+		</bndbox>
+	</object>
+</annotation>

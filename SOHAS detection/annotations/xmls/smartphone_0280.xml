@@ -1,0 +1,38 @@
+<annotation verified="no">
+	<folder>Nueva carpeta</folder>
+	<filename>smartphone_0280.jpg</filename>
+	<path>/home/parallels/Desktop/Parallels Shared Folders/Dropbox/zTrabajo/6 Refuerzo/3 Meter moviles en la BD/BuenaCalidad/Nueva carpeta/smartphone_0280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smartphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>84</ymin>
+			<xmax>1025</xmax>
+			<ymax>1034</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smartphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>855</xmin>
+			<ymin>84</ymin>
+			<xmax>1821</xmax>
+			<ymax>1034</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>RENAME</folder>
+	<filename>knife_475.jpg</filename>
+	<path>C:\Users\Alcasla\Universidad\Máster Ciencia de Datos\TFM\Armas\Stage5 SSD\Datasets\RENAME\knife_475.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>209</ymin>
+			<xmax>362</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

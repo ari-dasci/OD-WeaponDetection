@@ -1,0 +1,26 @@
+<annotation>
+	<folder>maspistol</folder>
+	<filename>pistol_9038.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\9 Paper Fusion OVA y OVO\Nueva Base de datos\maspistol\pistol_9038.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1228</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>579</xmin>
+			<ymin>316</ymin>
+			<xmax>818</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>

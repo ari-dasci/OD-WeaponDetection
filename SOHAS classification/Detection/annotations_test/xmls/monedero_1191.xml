@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TestCamara</folder>
+	<filename>monedero_1191.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\9 Paper Fusion OVA y OVO\BaseDatos\Test\TestCamara\monedero_1191.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monedero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>848</ymin>
+			<xmax>632</xmax>
+			<ymax>976</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pistola</folder>
+	<filename>pistol_5016.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\10 Ensemble\NuevasImg\Camara1\pistola\pistol_5016.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>577</xmin>
+			<ymin>244</ymin>
+			<xmax>994</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+</annotation>

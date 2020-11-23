@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pistol</folder>
+	<filename>img653.jpg</filename>
+	<path>/home/fperez/Descargas/IMAGES/18-09-2018/pistol/img653.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>611</xmin>
+			<ymin>354</ymin>
+			<xmax>704</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>

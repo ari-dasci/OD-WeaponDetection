@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Camara</folder>
+	<filename>tarjeta_2189.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\9 Paper Fusion OVA y OVO\BD estructurada\Train\TrainDetector3\Camara\tarjeta_2189.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1620</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarjeta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>698</xmin>
+			<ymin>503</ymin>
+			<xmax>917</xmax>
+			<ymax>722</ymax>
+		</bndbox>
+	</object>
+</annotation>

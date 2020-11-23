@@ -1,0 +1,38 @@
+<annotation>
+	<folder>billetes</folder>
+	<filename>billete_0057.jpg</filename>
+	<path>C:\Nueva Base de datos\billetes\billete_0057.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>billete</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>53</ymin>
+			<xmax>246</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>billete</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>4</ymin>
+			<xmax>254</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>masbilletes</folder>
+	<filename>billete_0099.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\9 Paper Fusion OVA y OVO\Nueva Base de datos\masbilletes\billete_0099.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1821</width>
+		<height>1214</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>billete</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>376</ymin>
+			<xmax>1210</xmax>
+			<ymax>961</ymax>
+		</bndbox>
+	</object>
+</annotation>

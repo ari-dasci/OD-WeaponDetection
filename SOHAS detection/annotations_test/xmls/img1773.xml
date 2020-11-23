@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smartphone</folder>
+	<filename>img1773.jpg</filename>
+	<path>/home/fperez/Descargas/IMAGES/18-09-2018/smartphone/img1773.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smartphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1274</xmin>
+			<ymin>509</ymin>
+			<xmax>1343</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>

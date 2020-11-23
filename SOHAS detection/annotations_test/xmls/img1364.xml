@@ -1,0 +1,38 @@
+<annotation>
+	<folder>mon y tar</folder>
+	<filename>img1364.jpg</filename>
+	<path>/home/fperez/Descargas/IMAGES/dsc_0001/mon y tar/img1364.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarjeta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1138</xmin>
+			<ymin>195</ymin>
+			<xmax>1258</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>monedero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1260</xmin>
+			<ymin>593</ymin>
+			<xmax>1398</xmax>
+			<ymax>689</ymax>
+		</bndbox>
+	</object>
+</annotation>

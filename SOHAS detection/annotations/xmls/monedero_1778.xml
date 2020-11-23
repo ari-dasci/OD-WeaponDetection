@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zsobran</folder>
+	<filename>monedero_1778.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\10 Ensemble\NuevasImg\Camara2\zsobran\monedero_1778.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monedero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1000</xmin>
+			<ymin>637</ymin>
+			<xmax>1140</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+</annotation>

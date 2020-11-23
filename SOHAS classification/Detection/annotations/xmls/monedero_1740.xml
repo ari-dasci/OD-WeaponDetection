@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>monedero_1740.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\10 Ensemble\NuevasImg\Camara2\train\monedero_1740.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monedero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>588</xmin>
+			<ymin>734</ymin>
+			<xmax>810</xmax>
+			<ymax>930</ymax>
+		</bndbox>
+	</object>
+</annotation>

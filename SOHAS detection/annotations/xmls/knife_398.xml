@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>knife_398.jpg</filename>
+	<path>C:/Users/Alcasla/Universidad/Máster Ciencia de Datos/TFM/Armas/Stage5 SSD/Datasets/train/knife_398.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>149</ymin>
+			<xmax>548</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

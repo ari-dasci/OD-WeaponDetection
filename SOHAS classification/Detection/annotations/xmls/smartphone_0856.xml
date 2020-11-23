@@ -1,0 +1,26 @@
+<annotation>
+	<folder>aa</folder>
+	<filename>smartphone_0856.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\9 Paper Fusion OVA y OVO\BD estructurada\Train\TrainDetector4\aa\smartphone_0856.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1620</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smartphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>855</xmin>
+			<ymin>349</ymin>
+			<xmax>923</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>

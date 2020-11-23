@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smartphone</folder>
+	<filename>img3820.jpg</filename>
+	<path>/home/fperez/Descargas/IMAGES/dsc_0002/smartphone/img3820.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smartphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>737</xmin>
+			<ymin>371</ymin>
+			<xmax>854</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+</annotation>

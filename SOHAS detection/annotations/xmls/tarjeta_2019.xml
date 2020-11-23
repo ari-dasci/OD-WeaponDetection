@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tarjetas</folder>
+	<filename>tarjeta_2019.jpg</filename>
+	<path>C:\Nueva Base de datos\tarjetas\tarjeta_2019.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>755</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarjeta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>229</ymin>
+			<xmax>901</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="no">
+	<folder>601-700</folder>
+	<filename>smartphone_0657.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\6 Refuerzo\4 Más refuerzo\smartphonesconcontexto\601-700\smartphone_0657.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smartphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>506</ymin>
+			<xmax>377</xmax>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+</annotation>

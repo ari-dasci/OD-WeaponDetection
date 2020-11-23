@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TestCamara</folder>
+	<filename>smartphone_0810.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\9 Paper Fusion OVA y OVO\BaseDatos\Test\TestCamara\smartphone_0810.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smartphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>748</xmin>
+			<ymin>654</ymin>
+			<xmax>1011</xmax>
+			<ymax>881</ymax>
+		</bndbox>
+	</object>
+</annotation>

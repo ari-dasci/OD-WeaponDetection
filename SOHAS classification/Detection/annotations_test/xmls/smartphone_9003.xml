@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GrandesTestInternet</folder>
+	<filename>smartphone_9003.jpg</filename>
+	<path>\\Mac\Dropbox\zTrabajo\9 Paper Fusion OVA y OVO\BaseDatos\Test\GrandesTestInternet\smartphone_9003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smartphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>553</xmin>
+			<ymin>58</ymin>
+			<xmax>1203</xmax>
+			<ymax>1108</ymax>
+		</bndbox>
+	</object>
+</annotation>
