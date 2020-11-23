@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Definitiva</folder>
+  <filename>armas (1145)</filename>
+  <path>C:\Users\Rob\Desktop\Definitiva\armas (1145).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2569</width>
+    <height>2389</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>pistol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>40</xmin>
+      <ymin>102</ymin>
+      <xmax>2568</xmax>
+      <ymax>2342</ymax>
+    </bndbox>
+  </object>
+</annotation>

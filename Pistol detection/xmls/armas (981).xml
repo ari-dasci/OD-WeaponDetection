@@ -1,0 +1,50 @@
+<annotation>
+  <folder>Definitiva</folder>
+  <filename>armas (981)</filename>
+  <path>C:\Users\Rob\Desktop\Definitiva\armas (981).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>254</width>
+    <height>199</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>pistol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>14</xmin>
+      <ymin>80</ymin>
+      <xmax>79</xmax>
+      <ymax>115</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pistol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>95</xmin>
+      <ymin>78</ymin>
+      <xmax>158</xmax>
+      <ymax>118</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pistol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>180</xmin>
+      <ymin>79</ymin>
+      <xmax>240</xmax>
+      <ymax>120</ymax>
+    </bndbox>
+  </object>
+</annotation>

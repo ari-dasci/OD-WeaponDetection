@@ -1,0 +1,26 @@
+<annotation>
+  <folder>ya</folder>
+  <filename>armas (1103)</filename>
+  <path>C:/Users/Rob/Desktop/ya/armas (1103).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1060</width>
+    <height>1050</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>pistol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>68</xmin>
+      <ymin>291</ymin>
+      <xmax>608</xmax>
+      <ymax>695</ymax>
+    </bndbox>
+  </object>
+</annotation>

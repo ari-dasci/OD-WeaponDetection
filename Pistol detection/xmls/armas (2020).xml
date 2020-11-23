@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Definitiva</folder>
+  <filename>armas (2020)</filename>
+  <path>C:\Users\Rob\Desktop\Definitiva\armas (2020).JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>506</width>
+    <height>307</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>pistol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>26</xmin>
+      <ymin>16</ymin>
+      <xmax>482</xmax>
+      <ymax>296</ymax>
+    </bndbox>
+  </object>
+</annotation>
