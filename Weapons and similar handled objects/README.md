@@ -20,7 +20,7 @@ This dataset is designed in the related publication giving additional informatio
 
 ## Results videos
 
-[![Results videos](Results Videos.png)](https://www.youtube.com/watch?v=qHqb70KzeMY&list=PL8vVH_wJRIZFlQWaHTxe2e0BWiqQVyWxM&ab_channel=FranciscoP%C3%A9rez-Hern%C3%A1ndez)
+[![Results videos](https://github.com/ari-dasci/OD-WeaponDetection/blob/master/pictures/Results%20Videos.png)](https://www.youtube.com/watch?v=qHqb70KzeMY&list=PL8vVH_wJRIZFlQWaHTxe2e0BWiqQVyWxM&ab_channel=FranciscoP%C3%A9rez-Hern%C3%A1ndez)
 
 
 
