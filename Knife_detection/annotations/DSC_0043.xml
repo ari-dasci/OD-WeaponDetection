@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>Reflex</folder>
+	<filename>DSC_0043.JPG</filename>
+	<path>../JPEGImages/DSC_0043.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>870</ymin>
+			<xmax>375</xmax>
+			<ymax>940</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1103</xmin>
+			<ymin>869</ymin>
+			<xmax>1257</xmax>
+			<ymax>976</ymax>
+		</bndbox>
+	</object>
+</annotation>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>train</folder>
+	<filename>knife_63.jpg</filename>
+	<path>../JPEGImages/knife_63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>89</ymin>
+			<xmax>317</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>
+

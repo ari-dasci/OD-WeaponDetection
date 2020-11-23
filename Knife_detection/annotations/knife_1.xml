@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>ScenesRenamed</folder>
+	<filename>knife_1.jpg</filename>
+	<path>../JPEGImages/knife_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>655</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>108</ymin>
+			<xmax>587</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>Train-P2</folder>
+	<filename>DefenseAndSurvive02.jpg</filename>
+	<path>../JPEGImages/DefenseAndSurvive02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>495</ymin>
+			<xmax>567</xmax>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+</annotation>
+

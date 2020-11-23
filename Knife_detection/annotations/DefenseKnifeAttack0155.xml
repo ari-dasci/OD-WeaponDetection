@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>Train-P2</folder>
+	<filename>DefenseKnifeAttack0155.jpg</filename>
+	<path>../JPEGImages/DefenseKnifeAttack0155.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>593</ymin>
+			<xmax>314</xmax>
+			<ymax>689</ymax>
+		</bndbox>
+	</object>
+</annotation>
+

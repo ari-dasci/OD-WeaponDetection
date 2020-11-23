@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>Reflex</folder>
+	<filename>DSC_00111.JPG</filename>
+	<path>../JPEGImages/DSC_00111.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1040</xmin>
+			<ymin>672</ymin>
+			<xmax>1114</xmax>
+			<ymax>880</ymax>
+		</bndbox>
+	</object>
+</annotation>
+
