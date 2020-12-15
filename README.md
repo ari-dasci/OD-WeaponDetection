@@ -28,4 +28,4 @@ You can read more information about these dataset in
 
 [Knife_detection](../master/Knife_detection)
 
-[Sohas: Small Objects Handled Similarly to a weapon](../master/Sohas:%20Small%20Objects%20Handled%20Similarly%20to%20a%20weapon)
+[Weapons and similar handled objects](../master/Weapons%20and%20similar%20handled%20objects)
