@@ -21,7 +21,11 @@ You can read more information about these dataset in
 ### Direct link:
 
 [Pistol classification](../master/Pistol%20classification)
+
 [Pistol detection](../master/Pistol%20detection)
+
 [Knife classification](../master/Knife%20classification)
+
 [Knife_detection](../master/Knife_detection)
+
 [Sohas: Small Objects Handled Similarly to a weapon](../master/Sohas:%20Small%20Objects%20Handled%20Similarly%20to%20a%20weapon)
