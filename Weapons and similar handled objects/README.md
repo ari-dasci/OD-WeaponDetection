@@ -1,4 +1,4 @@
-# Sohas: Small Objects Handled Similarly to a weapon
+# Weapons and similar handled objects: Sohas dataset (Small Objects Handled Similarly to a weapon)
 
 Sohas datasets includes weapons and small objects that are handled similarly. It contains six different classes such 
 as pistol, knife, bill, purse, smartphone and card. The classification images are obtained from the detection images 
