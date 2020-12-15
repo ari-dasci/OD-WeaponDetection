@@ -1,22 +1,25 @@
-# Weapons and similar handled object
+# Sohas: Small Objects Handled Similarly to a weapon
 
-The dataset includes weapons and small objects that are handled in a similar way. It contains six different classes such as pistol, knife, bill, purse, smartphone and card. The classification images are obtained from the detection images in which the object's bounding box has been cut out. 
+Sohas datasets includes weapons and small objects that are handled similarly. It contains six different classes such 
+as pistol, knife, bill, purse, smartphone and card. The classification images are obtained from the detection images 
+in which the object's bounding box has been cut out. 
 
 The txt file gives information about the experiment dataset partitions used in the article.
 
-## Classification datasets
+## Sohas_weapon-Classification
 
 ![ImgClas](https://github.com/ari-dasci/OD-WeaponDetection/blob/master/pictures/Images%20Classification.jpg)
 
 ![DatClas](https://github.com/ari-dasci/OD-WeaponDetection/blob/master/pictures/Dataset%20Classification.jpg)
 
-## Detection dataset
+## Sohas_weapon-Detection
 
 ![ImgDet](https://github.com/ari-dasci/OD-WeaponDetection/blob/master/pictures/Images%20Detection.jpg)
 
 ![DatDet](https://github.com/ari-dasci/OD-WeaponDetection/blob/master/pictures/Dataset%20Detection.jpg)
 
-This dataset is designed in the related publication giving additional information about the image dataset and experiment results.
+This dataset is designed in the related publication giving additional information about the image dataset and 
+experiment results.
 
 ## Results videos
 
