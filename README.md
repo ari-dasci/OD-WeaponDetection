@@ -31,6 +31,16 @@ You can read more information about these dataset in
 
 [Weapons and similar handled objects](../master/Weapons%20and%20similar%20handled%20objects)
 
+### Contact
+
+[***Fransco Pérez Hernandez***](https://www.linkedin.com/in/franciscoperezhernandez/)
+- Personal email: fperezhernandez92@gmail.com
+- Institutional email: fperezhernandez@ugr.es
+
+[***Alberto Castillo Lamas***](https://www.linkedin.com/in/albertocastillolamas/)
+- Personal email: alcasla90@gmail.com
+- Institutional email: albertocl@ugr.es
+
 ### License
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
