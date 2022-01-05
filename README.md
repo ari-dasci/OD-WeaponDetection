@@ -19,6 +19,8 @@ You can read more information about these dataset in
 [Weapon detection Open Data](https://dasci.es/transferencia/open-data/24705/), and related works in 
 [Weapon detection for security and video surveillance project](https://sci2s.ugr.es/weapons-detection).
 
+Drive link [full dataset](https://drive.google.com/file/d/1Szc920DAh5kU8Qk38Doq0znEVR1QmTZS/view?usp=sharing).
+
 ### Direct link:
 
 [Pistol classification](../master/Pistol%20classification)
